@@ -27,7 +27,7 @@
     "@playform/compress": "^0.2.0",
     "astro": "5.14.3",
     "astro-embed": "^0.9.1",
-    "astro-og-canvas": "^0.7.0"
+    "astro-og-canvas": "^0.7.2"
   },
   "devDependencies": {
     "@eslint/js": "^9.33.0",
