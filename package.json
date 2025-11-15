@@ -25,7 +25,7 @@
     "@astrojs/sitemap": "^3.5.0",
     "@astrojs/tailwind": "^6.0.2",
     "@playform/compress": "^0.2.0",
-    "astro": "5.14.3",
+    "astro": "5.15.6",
     "astro-embed": "^0.9.1",
     "astro-og-canvas": "^0.7.0"
   },
